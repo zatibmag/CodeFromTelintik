@@ -1,2 +1,2 @@
 # JobCodeExpamle
-An example of my clean code from job
+Some files which i can show from "Telintik"(Phone messenger)
